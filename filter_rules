@@ -18,3 +18,6 @@
 - *.DS_Store
 - 0700.png
 - 600519.png
+- notify-log.txt
+- db.sqlite3
+- reuters-log.txt

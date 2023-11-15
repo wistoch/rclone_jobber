@@ -21,3 +21,14 @@
 - notify-log.txt
 - db.sqlite3
 - reuters-log.txt
+- ca-server
+- ca-server/**
+- openai
+- openai/**
+- wechat-assistant
+- wechat-assistant/**
+- azure-chatgpt-ui
+- azure-chatgpt-ui/**
+- nextcloud
+- nextcloud/**
+
